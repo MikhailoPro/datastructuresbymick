@@ -1,6 +1,6 @@
 {
   "name": "datastructuresbymick",
-  "version": "1.0.1", 
+  "version": "1.1.0", 
   "description": "Implement common data structures like stacks, queues, linked lists, trees, graphs, etc. This package could be helpful for developers who need to work with complex data structures in their applications",
   "main": "./src/index.js",
   "scripts": {
