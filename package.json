@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "fileuploadutilitybymicky": "^1.0.1"
+    "fileuploadutilitybymicky": "^1.0.1",
+    "semver": "^7.6.0"
   }
 }
